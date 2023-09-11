@@ -1,0 +1,781 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\b\qc\line  }{\par}
+\fs20 {==============================================================================}\line
+\fs20 {*** Binary (0/1) Weight Matrix: 2607x2607 (Non Normalized)}\line
+\fs20 {==============================================================================}\line
+\fs20 {initial:       log likelihood =  1886.2437}\line
+\fs20 {rescale:       log likelihood =  1886.2437}\line
+\fs20 {rescale eq:    log likelihood =  2085.6795}\line
+\fs20 {Iteration 0:   log likelihood =  2085.6795  }\line
+\fs20 {Iteration 1:   log likelihood =  2832.4519  }\line
+\fs20 {Iteration 2:   log likelihood =  3147.4996  }\line
+\fs20 {Iteration 3:   log likelihood =   3163.545  }\line
+\fs20 {Iteration 4:   log likelihood =  3163.6109  }\line
+\fs20 {Iteration 5:   log likelihood =  3163.6109  }\line
+\fs20 {==============================================================================}\line
+\fs20 {* MLE Spatial Lag Normal Model (SAR)}\line
+\fs20 {==============================================================================}\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { Sample Size       =        2607}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { Wald Test         =    489.0190   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { P-Value}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { >}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { Chi2(13)}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { 0.0000}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { F-Test            =     37.6168   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { P-Value}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { >}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { F(13}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { ,}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { 2594)}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx8700
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx9900
+\fs20\pard\intbl\ql { 0.0000}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { (Buse 1973) R2     =      0.1587   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { Raw}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { Moments}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { R2}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { 0.9315}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { (Buse 1973) R2 Adj =      0.1548   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { Raw}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { Moments}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { R2}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { Adj}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx8700
+\fs20\pard\intbl\ql { 0.9312}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { Root MSE (Sigma)  =      0.1782   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { Log}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { Likelihood}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { Function}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { 3163.6109}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx7500\cell
+\row}
+\fs20 {- R2h= 0.2556   R2h Adj= 0.2522  F-Test =   68.49 P-Value > F(13 , 2594)0.0000}\line
+\fs20 {- R2v= 0.0918   R2v Adj= 0.0876  F-Test =   20.17 P-Value > F(13 , 2594)0.0000}\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { lst_bz }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { Coef.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { Std.Err.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { z}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { P>z}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { [95%Conf.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx8700
+\fs20\pard\intbl\ql { Interval]}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {lst_bz       }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {road }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.001}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    2.760}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.006}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.002}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {build_zb }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.412}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.036}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   11.450}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.342}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.483}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Elevation_ }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.041}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.020}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    2.040}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.042}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.002}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.081}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {NDVI_bz }\cell
+\cellx2700
+\fs20\pard\intbl\ql {   -0.075}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.007}\cell
+\cellx5100
+\fs20\pard\intbl\ql {  -11.060}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.089}\cell
+\cellx8700
+\fs20\pard\intbl\ql {   -0.062}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {greenspace }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.003}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.008}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    0.340}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.736}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.012}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.017}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {water_zb }\cell
+\cellx2700
+\fs20\pard\intbl\ql {   -0.161}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.016}\cell
+\cellx5100
+\fs20\pard\intbl\ql {  -10.190}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.192}\cell
+\cellx8700
+\fs20\pard\intbl\ql {   -0.130}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {water_dis_ }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.051}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.032}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    1.610}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.107}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.011}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.114}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land1 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.012}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.005}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    2.490}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.013}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.003}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.022}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land2 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.009}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.023}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    0.370}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.714}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.037}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.054}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land3 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.079}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.006}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   14.260}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.068}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.090}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land4 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.022}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.019}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    1.140}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.253}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.016}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.059}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land5 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.057}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.024}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    2.360}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.018}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.010}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.104}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land6 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.047}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.018}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    2.680}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.007}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.013}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.082}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {_cons }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.551}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.010}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   56.690}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.532}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.570}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {/Rho }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.057}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.004}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   15.710}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.050}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.064}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {/Sigma }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.066}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.001}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   69.650}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.064}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.067}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx8700\cell
+\row}
+\fs20 { LR Test SAR vs. OLS (Rho=0):    246.9580   P-Value > Chi2(1)   0.0000}\line
+\fs20 { Acceptable Range for Rho:        -0.2506 < Rho < 0.2506}\line
+{\par}
+
+
+{\b\qc\line  }{\par}
+\fs20 {==============================================================================}\line
+\fs20 {*** Binary (0/1) Weight Matrix: 2607x2607 (Non Normalized)}\line
+\fs20 {==============================================================================}\line
+\fs20 {initial:       log likelihood =  1886.2437}\line
+\fs20 {rescale:       log likelihood =  1886.2437}\line
+\fs20 {rescale eq:    log likelihood =  2840.4214}\line
+\fs20 {Iteration 0:   log likelihood =  2840.4214  }\line
+\fs20 {Iteration 1:   log likelihood =  3088.1788  }\line
+\fs20 {Iteration 2:   log likelihood =  3168.4061  }\line
+\fs20 {Iteration 3:   log likelihood =  3172.8249  }\line
+\fs20 {Iteration 4:   log likelihood =  3172.8621  }\line
+\fs20 {Iteration 5:   log likelihood =  3172.8621  }\line
+\fs20 {==============================================================================}\line
+\fs20 {* MLE Spatial Error Normal Model (SEM)}\line
+\fs20 {==============================================================================}\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { Sample Size       =        2607}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { Wald Test         =    317.0899   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { P-Value}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { >}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { Chi2(13)}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { 0.0000}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { F-Test            =     24.3915   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { P-Value}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { >}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { F(13}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { ,}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { 2594)}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx8700
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx9900
+\fs20\pard\intbl\ql { 0.0000}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { (Buse 1973) R2     =      0.1090   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { Raw}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { Moments}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { R2}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { 0.9148}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { (Buse 1973) R2 Adj =      0.1048   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { Raw}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { Moments}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { R2}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { Adj}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx8700
+\fs20\pard\intbl\ql { 0.9144}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { Root MSE (Sigma)  =      0.1987   }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { Log}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { Likelihood}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { Function}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { =}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { 3172.8621}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx7500\cell
+\row}
+\fs20 {- R2h= 0.1090   R2h Adj= 0.1048  F-Test =   24.39 P-Value > F(13 , 2594)0.0000}\line
+\fs20 {- R2v= 0.0723   R2v Adj= 0.0680  F-Test =   15.53 P-Value > F(13 , 2594)0.0000}\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { Coef.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { Std.Err.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { z}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { P>z}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { [95%Conf.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx8700
+\fs20\pard\intbl\ql { Interval]}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {lst_bz       }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {road }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.002}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.001}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    3.770}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.001}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.003}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {build_zb }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.524}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.040}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   12.990}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.445}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.603}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Elevation_ }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.048}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.021}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    2.240}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.025}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.006}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.089}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {NDVI_bz }\cell
+\cellx2700
+\fs20\pard\intbl\ql {   -0.080}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.007}\cell
+\cellx5100
+\fs20\pard\intbl\ql {  -10.910}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.094}\cell
+\cellx8700
+\fs20\pard\intbl\ql {   -0.066}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {greenspace }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.006}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.009}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    0.700}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.486}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.011}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.023}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {water_zb }\cell
+\cellx2700
+\fs20\pard\intbl\ql {   -0.176}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.018}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   -9.560}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.212}\cell
+\cellx8700
+\fs20\pard\intbl\ql {   -0.140}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {water_dis_ }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.072}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.037}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    1.930}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.053}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.001}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.144}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land1 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.015}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.005}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    2.900}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.004}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.005}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.025}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land2 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.005}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.023}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    0.210}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.830}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.041}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.051}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land3 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.095}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.006}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   15.490}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.083}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.107}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land4 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.027}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.020}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    1.380}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.167}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.011}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.065}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land5 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.065}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.025}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    2.580}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.010}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.016}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.115}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Land6 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.045}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.018}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    2.460}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.014}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.009}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.081}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {_cons }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.573}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.009}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   65.750}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.556}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.590}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {/Lambda }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.058}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.004}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   16.500}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.051}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.065}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {/Sigma }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.065}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.001}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   69.650}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.063}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.067}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx8700\cell
+\row}
+\fs20 { LR Test SEM vs. OLS (Lambda=0): 272.3856   P-Value > Chi2(1)   0.0000}\line
+\fs20 { Acceptable Range for Lambda:     -0.2506 < Lambda < 0.2506}\line
+{\par}
+
+
+\writepositionforappend
+}}
